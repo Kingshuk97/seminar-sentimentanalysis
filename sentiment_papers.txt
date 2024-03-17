@@ -1,0 +1,5 @@
+sentiment1: Farhadloo, Mohsen & Rolland, Erik. (2016). Fundamentals of Sentiment Analysis and Its Applications. 10.1007/978-3-319-30319-2_1. 
+
+sentiment2: Luo, Tiejian & Chen, Su & Xu, Guandong & Zhou, Jia. (2013). Sentiment Analysis. 10.1007/978-1-4614-7202-5_4. 
+
+sentiment4: Katrekar, Ashish. An Introduction to Sentiment Analysis. AVP, Big Data Analytics.
